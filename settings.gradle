@@ -1,2 +1,3 @@
+include ':HappyPopupwindowLib'
 include ':app'
 rootProject.name = "HappyPopupwindow"
